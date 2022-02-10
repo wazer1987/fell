@@ -17,7 +17,7 @@
     "element-ui": "^2.4.11",
     "marked": "^0.8.0",
     "md5": "^2.2.1",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "nuxt": "^2.0.0",
     "sass-loader": "^8.0.2"
   },
